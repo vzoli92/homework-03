@@ -51,7 +51,7 @@ A feladat megoldásához segítségedül lehet [ez a leírás](https://gist.gith
 1. Forkold le a házi feladat repóját! Ezt GitHub-on a Fork gombbal tudod megtenni. Ezután klónozd le a forkodból a repót!
 2. Hozz létre egy új branchet ```my-solutions-githubazonosito``` néven.
 3. A ```homework-03.R``` fájl írása közben ne felejts el commitokat írni, mikor úgy gondolod, hogy egy értelmes egység végéhez értél vagy megszakítod a munkádat.
-4. Készíts egy [.gitignore](https://github.com/github/gitignore/blob/master/R.gitignore) fájlt, hogy ne pushold pl. az RHistory fájlodat. Ezt se felejtsd el commitolni.
+4. Készíts egy [.gitignore](https://github.com/github/gitignore/blob/master/R.gitignore) fájlt, mielőtt pusholnál, hogy ne töltsd fel pl. az RHistory fájlodat. Ezt se felejtsd el commitolni.
 5. Ha végeztél, mindent commitoltál, pusholtad a változásokat GitHubra, küldj egy pull requestet!
 
 ---
