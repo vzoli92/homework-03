@@ -8,7 +8,7 @@
 ## I. feladat (1 pont)
 1. Ha Coospace-re szeretnéd feltölteni a házit, töltsd le onnan és csomagold ki a ```homework-03.zip```-et! Mikor végeztél, tömörítsd vissza és úgy add be! Ha GitHub-on szeretnéd, akkor kövesd a VI. feladat pontjait!
 2. Most nincs R projekt fájl a mappában, ezért indíts egy új projektet! 
-3. Nyiss egy R szkriptet ```homework-03.R``` néven egy ```src``` nevű mappában! Ebbe írd a II. feladat megoldásait. Nyiss egy R szkriptet ```homework-03.functions.R``` néven az ```src``` mappában! Ide kerüljön, ha írsz egy függvényt.
+3. Nyiss egy R szkriptet ```homework-03.R``` néven egy ```src``` nevű mappában! Ebbe írd a II. feladat megoldásait. Nyiss egy R szkriptet ```homework-03-functions.R``` néven az ```src``` mappában! Ide kerüljön, ha írsz egy függvényt.
 4. A ```homework-03.R``` fájlt kikommentelt fejléccel kezdd! A fejlécben a következőket add meg: 
     - fájl címe (*Házi feladat 3*)
     - kurzus neve (*Programozás I.*)
